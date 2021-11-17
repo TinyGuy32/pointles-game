@@ -1,0 +1,2 @@
+if you want to add a shape to the game draw it in a 42x42 png file and put it in the images folder.
+to cange the height and width of the game window simply change the variables with those names in the python file.
